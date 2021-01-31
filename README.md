@@ -5,7 +5,7 @@
 2. How did health insurance rates change from 2018 to 2020? And how did Covid-19 impact on US health insurance market?
 3. How do health insurance rates vary between smokes and non-smokers?
 
-About Data
+## About Data
 Data obtained from CMS.gov: Centers for Medicare & Medicaid Services
 https://www.cms.gov/cciio/resources/data-resources
 These Health Insurance Exchange Public Use Files (Exchange PUFs) are available for supporting timely benefit and rate analysis.
