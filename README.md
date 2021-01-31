@@ -19,4 +19,3 @@ The datasets contain medical insurance information of 38 states of the U.S.
 
 https://public.tableau.com/views/Health_Rate_Dashboard_Complete_16120607649420/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
 
-<iframe width="900" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMjJkNmNiZTctMzRlOS00YzFkLThlYzAtYmJhY2Y3YTFkNjk3IiwidCI6ImJjMTBlMDUyLWIwMWMtNDg0OS05OTY3LWVlN2VjNzRmYzlkOCIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
