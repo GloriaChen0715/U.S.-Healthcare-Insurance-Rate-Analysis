@@ -39,6 +39,7 @@ https://public.tableau.com/views/Health_Rate_Dashboard_Complete_16120607649420/D
   * seaborn
   * matplotlib
   * ploitly
+  * wordcloud
 * Tableau Public
 
 ## References
