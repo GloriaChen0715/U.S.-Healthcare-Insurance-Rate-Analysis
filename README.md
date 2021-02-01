@@ -26,7 +26,7 @@ https://www.cms.gov/cciio/resources/data-resources
 [Interative Dashboard Link]
 https://public.tableau.com/views/Health_Rate_Dashboard_Complete_16120607649420/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
 
-## Project Outcome
+## Outcome
 * Insurance rate varies by state, the west coast has a higher insurance rate in general
 * The variance of insurance between smoker and non-smoker significantly increased age after 45 
 * The average insurance rate increased by 0.7% from 2018 to 2019, the average insurance rate increased by 14.8% from 2019 to 2020 (COVID-19 impact on the market)
