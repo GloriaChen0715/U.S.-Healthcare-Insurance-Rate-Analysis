@@ -15,7 +15,7 @@ https://www.cms.gov/cciio/resources/data-resources
 
 ## Dataset Conversion & Technical Appendix
 * Dataset Compression Into Parquet File: [csv_to_parquet](https://github.com/kilee722/us_health_insurance_rate/blob/main/csv_to_parquet.ipynb)
-* Technical Appendix File: [Healthcare_appendix.ipynb]()
+* Technical Appendix File: [US_Healthcare_Insurance_Market.ipynb]()
 
 ##  Exploratory Data Analysis on 38 U.S. states' health insurance rate
 
