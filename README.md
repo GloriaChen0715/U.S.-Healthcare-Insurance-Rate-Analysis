@@ -14,7 +14,7 @@ https://www.cms.gov/cciio/resources/data-resources
 - The datasets contain medical insurance information of 38 states of the U.S.
 
 ## Dataset Conversion & Technical Appendix
-* Dataset Compression Into Parquet File: [csv_to_parquet](https://github.com/kilee722/us_health_insurance_rate/blob/main/csv_to_parquet.ipynb)
+* Dataset Compression Into Parquet File: [csv_to_parquet](https://github.com/GloriaChen0715/U.S.-Healthcare-Insurance-Rate-Analysis/blob/main/csv_to_parquet.ipynb)
 * Technical Appendix File: [US_Healthcare_Insurance_Market.ipynb]()
 
 ##  Exploratory Data Analysis on 38 U.S. states' health insurance rate
