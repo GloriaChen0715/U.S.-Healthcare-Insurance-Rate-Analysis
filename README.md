@@ -36,7 +36,7 @@ https://public.tableau.com/views/Health_Rate_Dashboard_Complete_16120607649420/D
 * The most significant influencing factors of the insurance rate - *Age, Smoker/Non-smoker, Location (State)*
 * Dental care is the most common benefit of the insurance plan
 
-## Language/ Package
+## Technology/ Package
 * Python
   * pandas
   * seaborn
